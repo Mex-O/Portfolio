@@ -1,0 +1,11 @@
+.home{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height:100vh;
+  background:blue;
+  color:white;
+}
+.App{
+  line-break:strict;
+}
